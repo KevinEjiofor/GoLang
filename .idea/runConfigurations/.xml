@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false">
+    <module name="goLangProjects" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="DIRECTORY" />
+    <package value="goLangProjects/chapterFour" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/chapterFour/largestNumber.go" />
+    <method v="2" />
+  </configuration>
+</component>
